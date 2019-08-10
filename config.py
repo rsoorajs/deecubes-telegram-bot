@@ -1,4 +1,4 @@
-BOT_TOKEN = 'YOUR-TOKEN-HERE'
+BOT_TOKEN = '888142340:AAFAanGfOkx_clNSt4pHDs1mftg9rF4huiY'
 
 # Add userids (number) in the list below for the users who are allowed to use the bot. If the list is empty, anyone is allowed
 LIST_ALLOWED_USERS = []
